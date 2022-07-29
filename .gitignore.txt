@@ -1,2 +1,2 @@
-file6
-file7
+file6.txt
+file7.txt
